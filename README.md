@@ -1,4 +1,4 @@
-# Maurip20-
+# Maurip20
 Data Analyst | Data Science | BI | Python | SQL | Power Platform - Power BI | Power Apps | Power Automate
 
 🤓 Analista de Dados no Sesc SP na área de Compliance.
